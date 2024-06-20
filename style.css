@@ -63,3 +63,24 @@ h5 {
 #forma_footer input{
     border: 0;
 }
+
+hr {
+    color: #D9D9D9;
+    background-color: #D9D9D9;
+    width: 90%;
+    margin: 10px 10px 10px 70px;
+}
+
+.poredak_dva {
+    display: flex;
+    flex-wrap: wrap; 
+    padding-bottom: 10px;
+}
+
+.poredak_dva p {
+    font-size: 11px;
+}
+
+.poredak_dva img{
+    width: 30px;
+}
