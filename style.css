@@ -287,6 +287,13 @@ main h1 {
     /* border: 1px solid #ddd; */
     border-radius: 5px;
 }
+.odjeli_svi{
+    margin-bottom: 50px;
+    background-color: #fff;
+    padding: 20px;
+    /* border: 1px solid #ddd; */
+    border-radius: 5px;
+}
 
 
 .odjel-row{
